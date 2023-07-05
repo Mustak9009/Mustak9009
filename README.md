@@ -1,4 +1,4 @@
-<img widht="20" alt="Coding" src="https://e1.pxfuel.com/desktop-wallpaper/1013/270/desktop-wallpaper-anime-programer-posted-by-ethan-thompson-anime-programmer.jpg"/>
+<img widht="400" alt="Coding" src="https://res.cloudinary.com/dm6euheyt/image/upload/v1688558162/360_F_582814375_ahTRXyqZ6uI4QeHmx9Eo4ELp2VZQL1in_omlgyk.jpg"/>
 <h1>Hi 👋, I'm Mustak sk</h1>
 <h3>Hello! Namaste! My name is Mustak. At present, I am enrolled in a bachelor's degree program at Makaut University. Additionally, I possess more than one year of experience in web application development. I will be undertaking part-time work utilizing Next.js. As a Full-stack web developer, my primary focus is on crafting user-friendly interfaces that are not only visually appealing but also highly functional in real-world scenarios, rather than merely incorporating extravagant elements.</h3>
 
